@@ -1,9 +1,8 @@
 [1] - Sprint planning, applications, CV refine
 [1] - Configuring new laptop
-[2] - Hacker Rank, Green book
-[2] - Project research 
-[3] - Project implementation
+[1] - Project research 
+[5] - Project implementation
 ~~~~~~~~
-[9] - Summary
+[8] - Summary
 ~~~~~~~~
 Written recommodation
