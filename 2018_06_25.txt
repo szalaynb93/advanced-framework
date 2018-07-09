@@ -1,8 +1,8 @@
 [1] - Sprint planning, applications, CV refine
-[1] - Configuring new laptop
+
 [1] - Project research 
 [5] - Project implementation
 ~~~~~~~~
-[8] - Summary
+[7] - Summary
 ~~~~~~~~
 Written recommodation
