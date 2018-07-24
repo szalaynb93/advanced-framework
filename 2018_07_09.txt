@@ -4,6 +4,9 @@
 [6] - Summary
 [5] - Bánkitó Fesztivál
 
+
+
+
 [3] - Personal Project (missing tests and oauth2)
 [2] - GE interview, Sprint tervezés
 --------
